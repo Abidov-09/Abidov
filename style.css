@@ -1,0 +1,37 @@
+#h1 {
+    color: rgb(42, 197, 11);
+}
+
+.merchant-cat-title {
+    margin-top: 80px;
+    padding: 0 10px;
+    background: rgba(18, 18, 18, 0.5);
+    font-size: 21px;
+    color: white;
+    transition: 0.5s;
+}
+
+#but {
+    background-color: dimgray;
+    left: 386px;
+    width: 760px;
+    position: absolute;
+    top: 5px;
+}
+
+.her {
+    left: 300px;
+    position: absolute;
+    top: 580px;
+}
+
+.her1 {
+    left: 650px;
+    position: absolute;
+    top: 580px;
+}
+.her2 {
+    left: 950px;
+    position: absolute;
+    top: 580px;
+}
